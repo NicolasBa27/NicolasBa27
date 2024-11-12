@@ -18,27 +18,33 @@ Nicolás!</a></h1>
 
 - 📄 Check out my resume [here](CV).
 
-## ⚡ Technologies
-
-### Language :
+### Languages:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-### Libraries & Framework :
+
+### Libraries & Frameworks:
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-orange?style=flat-square&logo=platformio)
+
+### Databases:
+
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 
 ### Tools:
 
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a> 
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![NGINX](https://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx)
+
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
